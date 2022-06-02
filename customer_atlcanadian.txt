@@ -1,1 +1,1 @@
-{"scripter":true, "license": "-0x+8f,0x2h648+-m1x1382f+-0x12b6m"}
+{"atlcanadian":true, "license": "-0x+8f,0x2h648+-m1x1382f+-0x12b6m"}
